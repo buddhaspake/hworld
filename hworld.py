@@ -1,1 +1,2 @@
-print("Hello, world")
+city = "Kolkata"
+print("Hello, " + city)
