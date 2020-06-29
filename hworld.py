@@ -1,3 +1,3 @@
-a = 23
+a = 22
 b = 37
-print("Hello, addition " + str(a+b))
+print("Hello, sum = " + str(a+b))
